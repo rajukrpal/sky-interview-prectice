@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "EXHIBITION SHOW FLOOR",
+    "description": "POPC Live! will feature a massive expo hosting the biggest brands, publishers, studios and amazing artists and creators! Check out new game demos, posters, figures or get your hands on the latest merch and goodies!",
+    "image": "https://images.unsplash.com/photo-1540575861501-7ce0e1b1297b?q=80&w=800&auto=format&fit=crop",
+    "bgColor": "bg-[#d4ff00]",
+    "status": "REGISTER FOR INTEREST"
+  },
+  {
+    "id": 2,
+    "title": "INDUSTRY CONFERENCE",
+    "description": "Hear from some of the biggest names in the gaming and entertainment industry. Our two-day industry conference will give you a detailed insight into the latest news in game development, the role of cryptocurrency in gaming, how e-sports are evolving and much more",
+    "image": "https://images.unsplash.com/photo-1591115765373-520b7a217215?q=80&w=800&auto=format&fit=crop",
+    "bgColor": "bg-[#00d4aa]",
+    "status": "REGISTER FOR INTEREST"
+  },
+  {
+    "id": 3,
+    "title": "POPC VIRTUAL LOUNGE",
+    "description": "Experience the next level of social interaction in our virtual lounge. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=800&auto=format&fit=crop",
+    "bgColor": "bg-[#b06cff]",
+    "status": "COMING SOON!"
+  },
+  {
+    "id": 4,
+    "title": "COSPLAY CHAMPIONSHIP",
+    "description": "Witness the best cosplayers from across the region battle it out for glory and amazing prizes in our grand championship event! Show off your creativity and craftsmanship.",
+    "image": "https://images.unsplash.com/photo-1623939012331-999a801475a1?q=80&w=800&auto=format&fit=crop",
+    "bgColor": "bg-[#ff6b6b]",
+    "status": "REGISTER FOR INTEREST"
+  },
+  {
+    "id": 5,
+    "title": "ESPORTS TOURNAMENT",
+    "description": "Top gaming teams compete in high-stakes tournaments. Join the audience and cheer for your favorites as they battle for the ultimate title in professional gaming.",
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=800&auto=format&fit=crop",
+    "bgColor": "bg-[#4ecdc4]",
+    "status": "REGISTER FOR INTEREST"
+  },
+  {
+    "id": 6,
+    "title": "GAMING WORKSHOPS",
+    "description": "Learn from the pros! Interactive sessions covering game design, streaming techniques, and competitive strategies for aspiring gamers and developers.",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=800&auto=format&fit=crop",
+    "bgColor": "bg-[#ffe66d]",
+    "status": "COMING SOON!"
+  },
+  {
+    "id": 7,
+    "title": "ARTIST ALLEY",
+    "description": "A dedicated space for independent artists to showcase and sell their unique creations, from digital art to hand-crafted merch and collectibles.",
+    "image": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop",
+    "bgColor": "bg-[#ff9f43]",
+    "status": "REGISTER FOR INTEREST"
+  },
+  {
+    "id": 8,
+    "title": "RETRO ARCADE ZONE",
+    "description": "Take a trip down memory lane in our retro arcade. Play classic games that defined a generation and experience the nostalgia of early gaming culture.",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=800&auto=format&fit=crop",
+    "bgColor": "bg-[#5f27cd]",
+    "status": "REGISTER FOR INTEREST"
+  },
+  {
+    "id": 9,
+    "title": "MEET & GREET",
+    "description": "Get up close and personal with your favorite influencers, pro players, and community icons. An exclusive opportunity for photos and autographs.",
+    "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?q=80&w=800&auto=format&fit=crop",
+    "bgColor": "bg-[#ee5253]",
+    "status": "COMING SOON!"
+  },
+  {
+    "id": 10,
+    "title": "COLLECTIBLES EXPO",
+    "description": "Explore a vast collection of rare toys, comics, and memorabilia. A must-visit for collectors and fans of pop culture history.",
+    "image": "https://images.unsplash.com/photo-1531653131713-39908cf2b864?q=80&w=800&auto=format&fit=crop",
+    "bgColor": "bg-[#0abde3]",
+    "status": "REGISTER FOR INTEREST"
+  }
+]
