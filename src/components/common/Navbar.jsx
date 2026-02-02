@@ -14,7 +14,7 @@ import { Link } from 'react-router-dom';
 
 function Navbar() {
   return (
-    <div className='w-full flex justify-between items-center h-12 border md:px-10 sticky top-0 px-2 bg-gray-400'>
+    <div className='w-full flex justify-between items-center h-12 border md:px-10 sticky top-0 px-2 bg-gray-400 z-50'>
         {/* Left side */}
         <div>
             <div className='border h-8 w-8 rounded-full bg-yellow-300 cursor-pointer'>
